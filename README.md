@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-- 🤣 新时代农民工
 - 👀 前端切图仔, 平时使用[Vue.js](https://github.com/vuejs/vue) & [TypeScript](https://github.com/microsoft/TypeScript)
 - 🌈 平时想起来就写点[博客](https://kian.vercel.app/)
 
